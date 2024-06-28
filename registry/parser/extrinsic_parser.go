@@ -4,10 +4,10 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/centrifuge/go-substrate-rpc-client/v4/registry"
-	"github.com/centrifuge/go-substrate-rpc-client/v4/rpc/chain/generic"
-	"github.com/centrifuge/go-substrate-rpc-client/v4/scale"
-	"github.com/centrifuge/go-substrate-rpc-client/v4/types"
+	"github.com/esh2n/go-substrate-rpc-client/v4/registry"
+	"github.com/esh2n/go-substrate-rpc-client/v4/rpc/chain/generic"
+	"github.com/esh2n/go-substrate-rpc-client/v4/scale"
+	"github.com/esh2n/go-substrate-rpc-client/v4/types"
 )
 
 // DefaultExtrinsic is the Extrinsic with defaults for the generic types:

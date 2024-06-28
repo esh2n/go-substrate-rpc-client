@@ -11,13 +11,13 @@ import (
 	"testing"
 	"time"
 
-	gsrpc "github.com/centrifuge/go-substrate-rpc-client/v4"
-	"github.com/centrifuge/go-substrate-rpc-client/v4/registry"
-	"github.com/centrifuge/go-substrate-rpc-client/v4/registry/exec"
-	"github.com/centrifuge/go-substrate-rpc-client/v4/registry/parser"
-	"github.com/centrifuge/go-substrate-rpc-client/v4/rpc/chain/generic"
-	"github.com/centrifuge/go-substrate-rpc-client/v4/scale"
-	"github.com/centrifuge/go-substrate-rpc-client/v4/types"
+	gsrpc "github.com/esh2n/go-substrate-rpc-client/v4"
+	"github.com/esh2n/go-substrate-rpc-client/v4/registry"
+	"github.com/esh2n/go-substrate-rpc-client/v4/registry/exec"
+	"github.com/esh2n/go-substrate-rpc-client/v4/registry/parser"
+	"github.com/esh2n/go-substrate-rpc-client/v4/rpc/chain/generic"
+	"github.com/esh2n/go-substrate-rpc-client/v4/scale"
+	"github.com/esh2n/go-substrate-rpc-client/v4/types"
 )
 
 var (

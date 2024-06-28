@@ -21,10 +21,10 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/centrifuge/go-substrate-rpc-client/v4/client"
-	"github.com/centrifuge/go-substrate-rpc-client/v4/rpcmocksrv"
-	"github.com/centrifuge/go-substrate-rpc-client/v4/types"
-	"github.com/centrifuge/go-substrate-rpc-client/v4/types/codec"
+	"github.com/esh2n/go-substrate-rpc-client/v4/client"
+	"github.com/esh2n/go-substrate-rpc-client/v4/rpcmocksrv"
+	"github.com/esh2n/go-substrate-rpc-client/v4/types"
+	"github.com/esh2n/go-substrate-rpc-client/v4/types/codec"
 )
 
 var testState State

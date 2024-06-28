@@ -3,8 +3,8 @@
 package parser
 
 import (
-	registry "github.com/centrifuge/go-substrate-rpc-client/v4/registry"
-	types "github.com/centrifuge/go-substrate-rpc-client/v4/types"
+	registry "github.com/esh2n/go-substrate-rpc-client/v4/registry"
+	types "github.com/esh2n/go-substrate-rpc-client/v4/types"
 	mock "github.com/stretchr/testify/mock"
 )
 
